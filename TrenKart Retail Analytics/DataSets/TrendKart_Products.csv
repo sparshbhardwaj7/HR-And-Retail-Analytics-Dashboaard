@@ -1,0 +1,124 @@
+Product ID,Product Name,Brand,Category,Sub-Category,MRP
+P0101,Voltix Pro 5G Smartphone,Voltix,Electronics,Smartphones,"₹19,980"
+P0102,NovaTech Essential Wireless Headphones,NovaTech,Electronics,Headphones,"₹9,440"
+P0103,AeroBeat Vista Smart Watch,AeroBeat,Electronics,Smart Watches,"₹3,310"
+P0104,PulseWave Elite Power Bank,PulseWave,Electronics,Power Banks,"₹2,890"
+P0105,Zentronix Swift Bluetooth Speaker,Zentronix,Electronics,Bluetooth Speakers,"₹2,020"
+P0106,Voltix Max 5G Smartphone,Voltix,electronics,Smartphones,"₹16,820"
+P0107,NovaTech Aura Wireless Headphones,NovaTech,electronics,Headphones,"₹7,510"
+P0108,AeroBeat Craft Smart Watch,AeroBeat,Electronics,Smart Watches,"₹6,330"
+P0109,PulseWave Prime Power Bank,PulseWave,electronics,Power Banks,"₹1,930"
+P0110,Zentronix Royal Bluetooth Speaker,Zentronix,Electronics,Bluetooth Speakers,"₹6,900"
+P0111,Voltix Ultra 5G Smartphone,Voltix,Electronics,Smartphones,"₹19,290"
+P0112,NovaTech Flex Wireless Headphones,NovaTech,Electronics,Headphones,"₹11,030"
+P0113,AeroBeat Pure Smart Watch,AeroBeat,Electronics,Smart Watches,"₹9,700"
+P0114,PulseWave Neo Power Bank,PulseWave,Electronics,Power Banks,"₹1,810"
+P0115,Zentronix Urban Bluetooth Speaker,Zentronix,Electronics,Bluetooth Speakers,"₹2,280"
+P0116,Voltix Classic 5G Smartphone,Voltix,Electronics,Smartphones,"₹22,300"
+P0117,NovaTech Nova Wireless Headphones,NovaTech,Electronics,Headphones,"₹3,840"
+P0118,AeroBeat Bold Smart Watch,AeroBeat,electronics,Smart Watches,"₹6,500"
+P0119,PulseWave Active Power Bank,PulseWave,Electronics,Power Banks,"₹1,270"
+P0120,Zentronix Alpha Bluetooth Speaker,Zentronix,Electronics,Bluetooth Speakers,"₹2,810"
+P0121,Voltix Elite 5G Smartphone,Voltix,Electronics,Smartphones,"₹17,290"
+P0122,NovaTech Swift Wireless Headphones,NovaTech,Electronics,Headphones,"₹7,210"
+P0123,AeroBeat Pro Smart Watch,AeroBeat,Electronics,Smart Watches,"₹11,910"
+P0124,PulseWave Essential Power Bank,PulseWave,Electronics,Power Banks,"₹1,690"
+P0125,Zentronix Vista Bluetooth Speaker,Zentronix,Electronics,Bluetooth Speakers,"₹5,120"
+P0126,Voltix Prime 5G Smartphone,Voltix,electronics,Smartphones,"₹11,220"
+P0127,NovaTech Royal Wireless Headphones,NovaTech,Electronics,Headphones,"₹8,700"
+P0128,AeroBeat Max Smart Watch,AeroBeat,Electronics,Smart Watches,"₹10,330"
+P0129,PulseWave Aura Power Bank,PulseWave,Electronics,Power Banks,"₹2,090"
+P0130,Zentronix Craft Bluetooth Speaker,Zentronix,Electronics,Bluetooth Speakers,"₹1,960"
+P0131,UrbanWeave Flex Casual Shirt,UrbanWeave,Fashion,Men's Clothing,"₹2,420"
+P0132,StrideOn Pure Kurti Set,StrideOn,Fashion,Women's Clothing,"₹2,740"
+P0133,VogueNest Neo Running Shoes,VogueNest,Fashion,Footwear,"₹3,640"
+P0134,DapperLane Urban Analog Watch,DapperLane,Fashion,Watches & Accessories,"₹3,650"
+P0135,UrbanWeave Ultra Casual Shirt,UrbanWeave,Fashion,Men's Clothing,₹750
+P0136,StrideOn Flex Kurti Set,StrideOn,Fashion,Women's Clothing,"₹1,370"
+P0137,VogueNest Pure Running Shoes,VogueNest,Fashion,Footwear,"₹4,300"
+P0138,DapperLane Neo Analog Watch,DapperLane,Fashion,Watches & Accessories,₹840
+P0139,UrbanWeave Urban Casual Shirt,UrbanWeave,Fashion,Men's Clothing,"₹1,470"
+P0140,StrideOn Ultra Kurti Set,StrideOn,Fashion,Women's Clothing,"₹2,610"
+P0140,StrideOn Ultra Kurti Set,StrideOn,Fashion,Women's Clothing,"₹2,610"
+P0141,VogueNest Flex Running Shoes,VogueNest,Fashion,Footwear,"₹3,630"
+P0142,DapperLane Pure Analog Watch,DapperLane,Fashion,Watches & Accessories,"₹4,930"
+P0143,UrbanWeave Neo Casual Shirt,UrbanWeave,fashion,Men's Clothing,₹570
+P0144,StrideOn Urban Kurti Set,StrideOn,Fashion,Women's Clothing,"₹3,050"
+P0145,VogueNest Ultra Running Shoes,VogueNest,Fashion,Footwear,"₹1,540"
+P0146,DapperLane Flex Analog Watch,DapperLane,Fashion,Watches & Accessories,"₹1,480"
+P0147,UrbanWeave Pure Casual Shirt,UrbanWeave,Fashion,Men's Clothing,"₹1,740"
+P0148,StrideOn Neo Kurti Set,StrideOn,fashion,Women's Clothing,"₹1,720"
+P0149,VogueNest Urban Running Shoes,VogueNest,Fashion,Footwear,"₹2,180"
+P0150,DapperLane Ultra Analog Watch,DapperLane,Fashion,Watches & Accessories,"₹1,290"
+P0151,UrbanWeave Nova Casual Shirt,UrbanWeave,Fashion,Men's Clothing,"₹3,240"
+P0152,StrideOn Bold Kurti Set,StrideOn,Fashion,Women's Clothing,"₹1,720"
+P0153,VogueNest Active Running Shoes,VogueNest,Fashion,Footwear,"₹4,470"
+P0154,DapperLane Alpha Analog Watch,DapperLane,Fashion,Watches & Accessories,"₹3,020"
+P0155,UrbanWeave Classic Casual Shirt,UrbanWeave,Fashion,Men's Clothing,₹990
+P0156,ChefCraft Alpha Cookware Set,ChefCraft,Home & Kitchen,Cookware,"₹2,600"
+P0157,HomeNest Classic Mixer Grinder,HomeNest,Home & Kitchen,Kitchen Appliances,"₹4,840"
+P0158,ZenHome Nova Wall Art,ZenHome,home & kitchen,Home Decor,"₹1,120"
+P0159,CasaLiving Bold Bedsheet Set,CasaLiving,Home & Kitchen,Bedding,"₹3,930"
+P0160,ChefCraft Active Cookware Set,ChefCraft,home & kitchen,Cookware,"₹2,780"
+P0160,ChefCraft Active Cookware Set,ChefCraft,home & kitchen,Cookware,"₹2,780"
+P0161,HomeNest Alpha Mixer Grinder,HomeNest,Home & Kitchen,Kitchen Appliances,"₹7,730"
+P0162,ZenHome Classic Wall Art,ZenHome,Home & Kitchen,Home Decor,₹750
+P0163,CasaLiving Nova Bedsheet Set,CasaLiving,Home & Kitchen,Bedding,"₹1,020"
+P0164,ChefCraft Bold Cookware Set,ChefCraft,Home & Kitchen,Cookware,"₹1,980"
+P0165,HomeNest Active Mixer Grinder,HomeNest,Home & Kitchen,Kitchen Appliances,"₹2,750"
+P0166,ZenHome Alpha Wall Art,ZenHome,Home & Kitchen,Home Decor,"₹1,130"
+P0167,CasaLiving Classic Bedsheet Set,CasaLiving,Home & Kitchen,Bedding,"₹2,960"
+P0168,ChefCraft Nova Cookware Set,ChefCraft,Home & Kitchen,Cookware,"₹2,930"
+P0169,HomeNest Bold Mixer Grinder,HomeNest,Home & Kitchen,Kitchen Appliances,"₹11,120"
+P0170,ZenHome Active Wall Art,ZenHome,Home & Kitchen,Home Decor,"₹2,860"
+P0171,CasaLiving Alpha Bedsheet Set,CasaLiving,Home & Kitchen,Bedding,"₹2,690"
+P0172,ChefCraft Classic Cookware Set,ChefCraft,Home & Kitchen,Cookware,"₹4,970"
+P0172,ChefCraft Classic Cookware Set,ChefCraft,Home & Kitchen,Cookware,"₹4,970"
+P0173,HomeNest Nova Mixer Grinder,HomeNest,Home & Kitchen,Kitchen Appliances,"₹6,030"
+P0174,ZenHome Bold Wall Art,ZenHome,Home & Kitchen,Home Decor,"₹1,540"
+P0175,CasaLiving Active Bedsheet Set,CasaLiving,Home & Kitchen,Bedding,"₹2,140"
+P0176,ChefCraft Vista Cookware Set,ChefCraft,Home & Kitchen,Cookware,"₹4,810"
+P0177,HomeNest Elite Mixer Grinder,HomeNest,Home & Kitchen,Kitchen Appliances,"₹3,120"
+P0178,GlowLeaf Craft Skincare Kit,GlowLeaf,Beauty & Personal Care,Skincare,₹660
+P0179,VelvetBloom Prime Hair Serum,VelvetBloom,Beauty & Personal Care,Haircare,₹800
+P0180,PureAura Royal Beard Trimmer,PureAura,Beauty & Personal Care,Grooming Appliances,"₹4,940"
+P0181,GlowLeaf Max Perfume,GlowLeaf,Beauty & Personal Care,Fragrances,"₹1,130"
+P0182,VelvetBloom Aura Skincare Kit,VelvetBloom,Beauty & Personal Care,Skincare,₹790
+P0183,PureAura Craft Hair Serum,PureAura,Beauty & Personal Care,Haircare,"₹1,110"
+P0184,GlowLeaf Prime Beard Trimmer,GlowLeaf,Beauty & Personal Care,Grooming Appliances,"₹5,400"
+P0185,VelvetBloom Royal Perfume,VelvetBloom,Beauty & Personal Care,Fragrances,"₹1,860"
+P0186,PureAura Max Skincare Kit,PureAura,beauty & personal care,Skincare,₹900
+P0187,GlowLeaf Aura Hair Serum,GlowLeaf,Beauty & Personal Care,Haircare,₹710
+P0188,VelvetBloom Craft Beard Trimmer,VelvetBloom,Beauty & Personal Care,Grooming Appliances,"₹1,700"
+P0189,PureAura Prime Perfume,PureAura,Beauty & Personal Care,Fragrances,"₹2,310"
+P0190,GlowLeaf Royal Skincare Kit,GlowLeaf,Beauty & Personal Care,Skincare,"₹2,320"
+P0191,VelvetBloom Max Hair Serum,VelvetBloom,Beauty & Personal Care,Haircare,"₹1,690"
+P0192,PureAura Aura Beard Trimmer,PureAura,Beauty & Personal Care,Grooming Appliances,"₹3,420"
+P0193,GlowLeaf Craft Perfume,GlowLeaf,Beauty & Personal Care,Fragrances,"₹3,340"
+P0194,VelvetBloom Prime Skincare Kit,VelvetBloom,Beauty & Personal Care,Skincare,"₹1,030"
+P0195,PureAura Royal Hair Serum,PureAura,Beauty & Personal Care,Haircare,"₹1,320"
+P0196,FlexFit Alpha Resistance Band Kit,FlexFit,sports & fitness,Fitness Equipment,"₹9,110"
+P0197,IronPeak Classic Track Suit,IronPeak,Sports & Fitness,Sportswear,₹970
+P0198,ZenStride Nova Yoga Mat,ZenStride,sports & fitness,Yoga & Accessories,₹700
+P0199,FlexFit Bold Dumbbell Set,FlexFit,Sports & Fitness,Fitness Equipment,"₹7,320"
+P0200,IronPeak Active Track Suit,IronPeak,Sports & Fitness,Sportswear,₹970
+P0201,ZenStride Alpha Yoga Mat,ZenStride,sports & fitness,Yoga & Accessories,"₹2,440"
+P0202,FlexFit Classic Resistance Band Kit,FlexFit,sports & fitness,Fitness Equipment,"₹5,250"
+P0203,IronPeak Nova Track Suit,IronPeak,Sports & Fitness,Sportswear,₹590
+P0204,ZenStride Bold Yoga Mat,ZenStride,sports & fitness,Yoga & Accessories,₹800
+P0205,FlexFit Active Dumbbell Set,FlexFit,Sports & Fitness,Fitness Equipment,"₹2,180"
+P0206,IronPeak Alpha Track Suit,IronPeak,Sports & Fitness,Sportswear,"₹2,220"
+P0207,ZenStride Classic Yoga Mat,ZenStride,Sports & Fitness,Yoga & Accessories,₹960
+P0208,FlexFit Nova Resistance Band Kit,FlexFit,Sports & Fitness,Fitness Equipment,"₹8,180"
+P0209,IronPeak Bold Track Suit,IronPeak,Sports & Fitness,Sportswear,₹810
+P0210,ZenStride Active Yoga Mat,ZenStride,Sports & Fitness,Yoga & Accessories,"₹2,370"
+P0211,PageTurn Flex Fiction Novel,PageTurn,Books & Stationery,Fiction,₹510
+P0212,InkNest Pure Self-Help Book,InkNest,books & stationery,Self-Help,₹850
+P0213,PageTurn Neo Textbook,PageTurn,books & stationery,Academic,₹850
+P0214,InkNest Urban Notebook Set,InkNest,Books & Stationery,Stationery,₹250
+P0215,PageTurn Ultra Fiction Novel,PageTurn,Books & Stationery,Fiction,₹570
+P0216,InkNest Flex Self-Help Book,InkNest,Books & Stationery,Self-Help,₹500
+P0217,PageTurn Pure Textbook,PageTurn,Books & Stationery,Academic,"₹1,570"
+P0218,InkNest Neo Notebook Set,InkNest,books & stationery,Stationery,"₹1,100"
+P0219,PageTurn Urban Fiction Novel,PageTurn,Books & Stationery,Fiction,₹550
+P0220,InkNest Ultra Self-Help Book,InkNest,Books & Stationery,Self-Help,₹340
