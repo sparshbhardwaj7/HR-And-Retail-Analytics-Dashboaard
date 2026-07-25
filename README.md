@@ -73,6 +73,6 @@ Developed under the guidance of **Kirti Sharma** and **Simran Kaur**, as part of
 ## 👤 Author
 
 **Sparsh Bhardwaj**
-B.Tech CSE (Data Science) · BVCOE New Delhi
-[LinkedIn](linkedin.com/in/sparshbhardwaj7) · [GitHub](https://github.com/sparshbhardwaj7)
+B.Tech CSE (Data Science) · BVCOE New Delhi 
+[LinkedIn](https://linkedin.com/in/sparshbhardwaj7) · [GitHub](https://github.com/sparshbhardwaj7)
 
