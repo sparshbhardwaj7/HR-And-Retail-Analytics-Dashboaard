@@ -76,3 +76,7 @@ Developed under the guidance of **Kirti Sharma** and **Simran Kaur**, as part of
 B.Tech CSE (Data Science) · BVCOE New Delhi 
 [LinkedIn](https://linkedin.com/in/sparshbhardwaj7) · [GitHub](https://github.com/sparshbhardwaj7)
 
+## License
+ This project is licensed under the MIT License. See the [LICENSE](LICENSE)
+MIT License — this dataset is synthetic training data, so it's freely reusable.
+
