@@ -254,6 +254,3 @@ B.Tech CSE (Data Science), Bharati Vidyapeeth's College of Engineering (BVCOE)
 
 This project was created as a retail analytics and business intelligence portfolio project using Microsoft Power BI.
 
-## License
-
-MIT License — this dataset is synthetic training data, so it's freely reusable.
